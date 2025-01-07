@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|d:\\curso c# nivel 2\\primera conexion a db\\addo.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|solutionrelative:addo.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|d:\\curso c# nivel 2\\primera conexion a db\\addo.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|solutionrelative:addo.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|d:\\curso c# nivel 2\\primera conexion a db\\addo.net\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|solutionrelative:addo.net\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|d:\\curso c# nivel 2\\primera conexion a db\\addo.net\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BA3FB6-8BA5-420A-9FFA-2B19E20578CC}|addo.net\\addo.net.csproj|solutionrelative:addo.net\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\Form1.cs",
+              "RelativeDocumentMoniker": "addo.net\\Form1.cs",
+              "ToolTip": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\Form1.cs",
+              "RelativeToolTip": "addo.net\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:07:42.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "addo.net\\PokemonNegocio.cs",
+              "ToolTip": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\PokemonNegocio.cs",
+              "RelativeToolTip": "addo.net\\PokemonNegocio.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:28:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\Pokemon.cs",
+              "RelativeDocumentMoniker": "addo.net\\Pokemon.cs",
+              "ToolTip": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\Pokemon.cs",
+              "RelativeToolTip": "addo.net\\Pokemon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:13:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\Form1.cs",
+              "RelativeDocumentMoniker": "addo.net\\Form1.cs",
+              "ToolTip": "D:\\CURSO C# NIVEL 2\\primera conexion a db\\addo.net\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "addo.net\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:07:55.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

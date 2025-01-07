@@ -1,0 +1,10 @@
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\bin\Debug\addo.net.exe.config
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\bin\Debug\addo.net.exe
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\bin\Debug\addo.net.pdb
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.csproj.AssemblyReference.cache
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.Properties.Resources.resources
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.csproj.GenerateResource.cache
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.csproj.CoreCompileInputs.cache
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.exe
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.pdb
+D:\CURSO C# NIVEL 2\primera conexion a db\addo.net\obj\Debug\addo.net.FrmPokemons.resources
